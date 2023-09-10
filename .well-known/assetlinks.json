@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "app.zuca",
       "sha256_cert_fingerprints": [
-        "E3:19:85:C6:AA:F7:26:2F:24:46:62:C0:91:59:01:A3:6F:0A:D9:43:FB:C0:56:81:94:DD:7E:7E:6D:EE:3E:E1"
+        "E3:19:85:C6:AA:F7:26:2F:24:46:62:C0:91:59:01:A3:6F:0A:D9:43:FB:C0:56:81:94:DD:7E:7E:6D:EE:3E:E1",
+        "7C:AB:2A:37:1B:C5:2A:07:0C:49:69:A9:D0:55:EB:7B:24:DA:9F:88:E4:72:97:46:F4:55:7A:07:20:65:CA:B3"
       ]
     }
   }
